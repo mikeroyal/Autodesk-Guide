@@ -459,7 +459,7 @@
 
 [Google Robotics Research](https://research.google/teams/brain/robotics/)
 
-## Robotics Tools and Framemworks
+## Robotics Tools and Frameworks
 
 [Robot Framework](https://robotframework.org/) is a generic open source automation framework. It can be used for test automation and robotic process automation. It has easy syntax, utilizing human-readable keywords. Its capabilities can be extended by libraries implemented with Python or Java.
 
