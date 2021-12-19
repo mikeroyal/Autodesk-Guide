@@ -7,7 +7,11 @@
 #### A guide covering AutoDesk including the applications, libraries and tools that will make you better and more efficient Engineer/Designer with AutoDesk.
 
  **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
-
+ 
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/122687190-073d7800-d1ca-11eb-831e-13f1223a5635.png">
+  <br />
+</p>
 
 # Table of Contents
 
@@ -22,11 +26,6 @@
 5. [MATLAB Development](https://github.com/mikeroyal/AutoDesk-Guide#matlab-development)
 
 6. [Game Development](https://github.com/mikeroyal/AutoDesk-Guide#game-development)
-
-<p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/122687190-073d7800-d1ca-11eb-831e-13f1223a5635.png">
-  <br />
-</p>
 
 
 # Autodesk Learning Resources
